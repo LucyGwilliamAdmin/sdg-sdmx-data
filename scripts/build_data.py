@@ -1,9 +1,9 @@
 from sdg.open_sdg import open_sdg_build
 
-def alter_data(df, context):
+def alter_data(data, context):
   if 'SERIES' in context['meta']:
-    df['SERIES']=context['meta']['SERIES']
-  return df
+    data['SERIES']=context['meta']['SERIES']
+  return data
     
 def alter_meta(meta, context):
   if 'SERIES' in meta:
