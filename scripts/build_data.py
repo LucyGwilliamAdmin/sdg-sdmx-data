@@ -6,7 +6,7 @@ def alter_data(df, context):
   return df
     
 def alter_meta(meta, context):
-  if 'SERIES' in meta
+  if 'SERIES' in meta:
     del meta['SERIES']
   return meta
 
