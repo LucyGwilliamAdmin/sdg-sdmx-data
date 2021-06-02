@@ -1,4 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Y_GE15,1,1
-Y_GE21,1,1
-Y12T17,3,1
+15 and under,3,1
+16 to 24,3,1
+17 and under,3,1
+18 to 24,3,1
+25 to 49,6,2
+50 to 64,6,2
+65 and over,3,1
+65 to 74,3,1
+75 and over,3,1

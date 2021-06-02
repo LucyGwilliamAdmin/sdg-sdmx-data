@@ -11,30 +11,30 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y12T17"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "SERIES",
             "type": "string",
-            "title": "Unit measure"
+            "title": "SDG Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Urban or Rural",

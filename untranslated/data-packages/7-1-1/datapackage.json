@@ -11,12 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Y12T17"
+                "Urban",
+                "Rural",
+                ""
               ]
             }
           },
@@ -25,31 +30,26 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string"
           },
           {
-            "name": "Urban or Rural",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Rural",
-                "Urban"
+                "Percentage (%)",
+                ""
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

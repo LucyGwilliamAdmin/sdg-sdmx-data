@@ -1,48 +1,48 @@
-Year,Value,Observation status,Unit multiplier,Unit measure
-1972,4.02,Estimate,Units,Percentage (%)
-1973,4.88,Estimate,Units,Percentage (%)
-1974,-2.73,Estimate,Units,Percentage (%)
-1975,-1.09,Estimate,Units,Percentage (%)
-1976,3.52,Estimate,Units,Percentage (%)
-1977,2.36,Estimate,Units,Percentage (%)
-1978,3.66,Estimate,Units,Percentage (%)
-1979,2.7,Estimate,Units,Percentage (%)
-1980,-1.61,Estimate,Units,Percentage (%)
-1981,1.88,Estimate,Units,Percentage (%)
-1982,4.03,Estimate,Units,Percentage (%)
-1983,4.99,Estimate,Units,Percentage (%)
-1984,0.12,Estimate,Units,Percentage (%)
-1985,2.85,Estimate,Units,Percentage (%)
-1986,2.51,Estimate,Units,Percentage (%)
-1987,3.33,Estimate,Units,Percentage (%)
-1988,2.36,Estimate,Units,Percentage (%)
-1989,-0.03,Estimate,Units,Percentage (%)
-1990,0.28,Estimate,Units,Percentage (%)
-1991,1.58,Estimate,Units,Percentage (%)
-1992,2.85,Estimate,Units,Percentage (%)
-1993,3.45,Estimate,Units,Percentage (%)
-1994,3.03,Estimate,Units,Percentage (%)
-1995,1.28,Estimate,Units,Percentage (%)
-1996,1.54,Estimate,Units,Percentage (%)
-1997,2.03,Estimate,Units,Percentage (%)
-1998,2.6,Estimate,Units,Percentage (%)
-1999,2.01,Estimate,Units,Percentage (%)
-2000,2.25,Estimate,Units,Percentage (%)
-2001,2.13,Estimate,Units,Percentage (%)
-2002,1.47,Estimate,Units,Percentage (%)
-2003,2.27,Estimate,Units,Percentage (%)
-2004,1.27,Estimate,Units,Percentage (%)
-2005,2.04,Estimate,Units,Percentage (%)
-2006,1.77,Estimate,Units,Percentage (%)
-2007,1.59,Estimate,Units,Percentage (%)
-2008,-1.12,Estimate,Units,Percentage (%)
-2009,-2.7,Estimate,Units,Percentage (%)
-2010,1.7,Estimate,Units,Percentage (%)
-2011,1.02,Estimate,Units,Percentage (%)
-2012,0.39,Estimate,Units,Percentage (%)
-2013,0.96,Estimate,Units,Percentage (%)
-2014,0.24,Estimate,Units,Percentage (%)
-2015,0.62,Estimate,Units,Percentage (%)
-2016,0.44,Estimate,Units,Percentage (%)
-2017,0.9,Estimate,Units,Percentage (%)
-2018,0.19,Estimate,Units,Percentage (%)
+Year,Value,Units,Observation status,Unit multiplier,SERIES
+1972,4.02,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1973,4.88,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1974,-2.73,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1975,-1.09,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1976,3.52,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1977,2.36,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1978,3.66,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1979,2.7,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1980,-1.61,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1981,1.88,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1982,4.03,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1983,4.99,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1984,0.12,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1985,2.85,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1986,2.51,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1987,3.33,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1988,2.36,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1989,-0.03,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1990,0.28,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1991,1.58,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1992,2.85,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1993,3.45,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1994,3.03,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1995,1.28,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1996,1.54,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1997,2.03,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1998,2.6,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+1999,2.01,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2000,2.25,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2001,2.13,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2002,1.47,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2003,2.27,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2004,1.27,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2005,2.04,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2006,1.77,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2007,1.59,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2008,-1.12,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2009,-2.7,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2010,1.7,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2011,1.02,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2012,0.39,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2013,0.96,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2014,0.24,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2015,0.62,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2016,0.44,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2017,0.9,Percentage change (%),Undefined,Units,SL_EMP_PCAP
+2018,0.19,Percentage change (%),Undefined,Units,SL_EMP_PCAP

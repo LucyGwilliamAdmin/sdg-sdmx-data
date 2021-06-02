@@ -1,5 +1,7 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,Age,1
-#2-a-1,AGE,1
+#1-2-1,"Sex, Age",2
+#1-2-2,"Sex, Age",2
+#1-4-2,"Security, Type of documentation",2
+#1-a-2,"Area of spending category, Area of spending sub-category",2
 #3-2-1,Sex,1
-#7-1-1,"Age, Urban or Rural",2
+#7-1-1,Urban or Rural,1

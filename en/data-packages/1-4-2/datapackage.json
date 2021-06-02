@@ -11,13 +11,64 @@
       "schema": {
         "fields": [
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "Security",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Documented",
+                "Perceived"
+              ]
+            },
+            "title": "Security"
+          },
+          {
+            "name": "Type of documentation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Formal",
+                "Informal Documentation",
+                "No Documentation"
+              ]
+            },
+            "title": "Type of documentation"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

@@ -26,6 +26,11 @@
             "title": "Observation status"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -38,14 +43,20 @@
             "title": "Sex"
           },
           {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rate per 1,000 live births"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

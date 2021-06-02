@@ -1,1 +1,25 @@
-Year,Value,Observation status,Unit multiplier,Unit measure
+Year,Value,Units,Observation status,Unit multiplier,SERIES
+1995,0.621339529,Index,Estimate,Units,AG_PRD_ORTIND
+1996,0.618122041,Index,Estimate,Units,AG_PRD_ORTIND
+1997,0.771004329,Index,Estimate,Units,AG_PRD_ORTIND
+1998,0.642354525,Index,Estimate,Units,AG_PRD_ORTIND
+1999,0.661509318,Index,Estimate,Units,AG_PRD_ORTIND
+2000,0.807328308,Index,Estimate,Units,AG_PRD_ORTIND
+2001,1.160329875,Index,Estimate,Units,AG_PRD_ORTIND
+2002,0.612295899,Index,Estimate,Units,AG_PRD_ORTIND
+2003,0.651699079,Index,Estimate,Units,AG_PRD_ORTIND
+2004,0.715937118,Index,Estimate,Units,AG_PRD_ORTIND
+2005,0.72976889,Index,Estimate,Units,AG_PRD_ORTIND
+2006,0.757564928,Index,Estimate,Units,AG_PRD_ORTIND
+2007,0.718703495,Index,Estimate,Units,AG_PRD_ORTIND
+2008,0.535228358,Index,Estimate,Units,AG_PRD_ORTIND
+2009,0.518150611,Index,Estimate,Units,AG_PRD_ORTIND
+2010,0.536094536,Index,Estimate,Units,AG_PRD_ORTIND
+2011,0.50327236,Index,Estimate,Units,AG_PRD_ORTIND
+2012,0.474469137,Index,Estimate,Units,AG_PRD_ORTIND
+2013,0.46991294,Index,Estimate,Units,AG_PRD_ORTIND
+2014,0.411589099,Index,Estimate,Units,AG_PRD_ORTIND
+2015,0.394219747,Index,Estimate,Units,AG_PRD_ORTIND
+2016,0.42010518,Index,Estimate,Units,AG_PRD_ORTIND
+2017,0.403549033,Index,Estimate,Units,AG_PRD_ORTIND
+2018,0.422870274,Index,Estimate,Units,AG_PRD_ORTIND

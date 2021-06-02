@@ -1,1 +1,433 @@
-Year,Value
+Year,Area of spending category,Area of spending sub-category,Observation status,Unit multiplier,Units,SERIES,Value
+2000,,,Undefined,Units,Percentage (%),_L_010a02,17.19810667
+2001,,,Undefined,Units,Percentage (%),_L_010a02,18.19998747
+2002,,,Undefined,Units,Percentage (%),_L_010a02,19.3823553
+2003,,,Undefined,Units,Percentage (%),_L_010a02,20.19938049
+2004,,,Undefined,Units,Percentage (%),_L_010a02,21.25898225
+2005,,,Undefined,Units,Percentage (%),_L_010a02,21.92779266
+2006,,,Undefined,Units,Percentage (%),_L_010a02,22.60317812
+2007,,,Undefined,Units,Percentage (%),_L_010a02,23.27682002
+2008,,,Undefined,Units,Percentage (%),_L_010a02,25.04367671
+2009,,,Undefined,Units,Percentage (%),_L_010a02,28.3376781
+2010,,,Undefined,Units,Percentage (%),_L_010a02,28.91882251
+2011,,,Undefined,Units,Percentage (%),_L_010a02,28.63680448
+2012,,,Undefined,Units,Percentage (%),_L_010a02,29.09953406
+2013,,,Undefined,Units,Percentage (%),_L_010a02,28.92871702
+2014,,,Undefined,Units,Percentage (%),_L_010a02,29.06991488
+2015,,,Undefined,Units,Percentage (%),_L_010a02,28.9170488
+2000,Health,,Undefined,Units,Percentage (%),_L_010a02,3.772786498
+2001,Health,,Undefined,Units,Percentage (%),_L_010a02,4.023175475
+2002,Health,,Undefined,Units,Percentage (%),_L_010a02,4.315171484
+2003,Health,,Undefined,Units,Percentage (%),_L_010a02,4.567010848
+2004,Health,,Undefined,Units,Percentage (%),_L_010a02,4.973157058
+2005,Health,,Undefined,Units,Percentage (%),_L_010a02,5.20640899
+2006,Health,,Undefined,Units,Percentage (%),_L_010a02,5.517877995
+2007,Health,,Undefined,Units,Percentage (%),_L_010a02,5.685678862
+2008,Health,,Undefined,Units,Percentage (%),_L_010a02,6.204436731
+2009,Health,,Undefined,Units,Percentage (%),_L_010a02,7.04723195
+2010,Health,,Undefined,Units,Percentage (%),_L_010a02,7.103646874
+2011,Health,,Undefined,Units,Percentage (%),_L_010a02,7.043347458
+2012,Health,,Undefined,Units,Percentage (%),_L_010a02,7.093032798
+2013,Health,,Undefined,Units,Percentage (%),_L_010a02,7.252771185
+2014,Health,,Undefined,Units,Percentage (%),_L_010a02,7.461293867
+2015,Health,,Undefined,Units,Percentage (%),_L_010a02,7.556054655
+2000,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.378310904
+2001,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.390191156
+2002,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.436527224
+2003,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.47020848
+2004,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.478479201
+2005,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.473955424
+2006,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.477328915
+2007,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.471175024
+2008,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.477185208
+2009,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.488077601
+2010,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.457120662
+2011,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.475154717
+2012,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.469757274
+2013,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.43981572
+2014,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.469534703
+2015,Health,"Medical products, appliances and equipment",Undefined,Units,Percentage (%),_L_010a02,0.432828922
+2000,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.395469566
+2001,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.418990503
+2002,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.462748788
+2003,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.458432802
+2004,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.507023088
+2005,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.539293608
+2006,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.597360015
+2007,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.598513474
+2008,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.626966595
+2009,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.796377963
+2010,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.790500151
+2011,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.808850277
+2012,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.82924155
+2013,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.790897669
+2014,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.828906214
+2015,Health,Outpatient services,Undefined,Units,Percentage (%),_L_010a02,0.781209877
+2000,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,2.884842817
+2001,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,3.075196962
+2002,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,3.270928614
+2003,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,3.478232943
+2004,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,3.823281354
+2005,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,4.010571062
+2006,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,4.263288013
+2007,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,4.431298403
+2008,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,4.89899475
+2009,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,5.496720393
+2010,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,5.566885947
+2011,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,5.543221093
+2012,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,5.496667305
+2013,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,5.569565824
+2014,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,5.603746307
+2015,Health,Hospital services,Undefined,Units,Percentage (%),_L_010a02,5.678874295
+2000,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.009912375
+2001,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.011133081
+2002,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.011516667
+2003,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.012531336
+2004,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.013656773
+2005,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.018676577
+2006,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.016306991
+2007,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.014565971
+2008,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.016350182
+2009,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.023926543
+2010,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.031507354
+2011,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.029205591
+2012,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.030146985
+2013,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.15552143
+2014,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.204720382
+2015,Health,Public health services,Undefined,Units,Percentage (%),_L_010a02,0.219829442
+2000,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.057970301
+2001,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.078998209
+2002,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.089856029
+2003,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.097731828
+2004,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.091537291
+2005,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.095829335
+2006,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.103840588
+2007,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.110724139
+2008,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.138176189
+2009,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.154120348
+2010,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.190100237
+2011,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.11069208
+2012,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.080638911
+2013,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.072204384
+2014,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.083340378
+2015,Health,Research and development - health,Undefined,Units,Percentage (%),_L_010a02,0.16047761
+2000,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.046280535
+2001,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.048665564
+2002,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.043594163
+2003,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.049873459
+2004,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.059179351
+2005,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.068082984
+2006,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.059753473
+2007,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.059401851
+2008,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.046763807
+2009,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.088009103
+2010,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.067532522
+2011,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.0762237
+2012,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.186580773
+2013,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.224766159
+2014,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.271045884
+2015,Health,Health - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.282834508
+2000,Education,,Undefined,Units,Percentage (%),_L_010a02,3.451215394
+2001,Education,,Undefined,Units,Percentage (%),_L_010a02,3.761181413
+2002,Education,,Undefined,Units,Percentage (%),_L_010a02,4.25726282
+2003,Education,,Undefined,Units,Percentage (%),_L_010a02,4.234898953
+2004,Education,,Undefined,Units,Percentage (%),_L_010a02,4.376134604
+2005,Education,,Undefined,Units,Percentage (%),_L_010a02,4.607863495
+2006,Education,,Undefined,Units,Percentage (%),_L_010a02,4.912073288
+2007,Education,,Undefined,Units,Percentage (%),_L_010a02,5.022699587
+2008,Education,,Undefined,Units,Percentage (%),_L_010a02,5.357657373
+2009,Education,,Undefined,Units,Percentage (%),_L_010a02,5.865165281
+2010,Education,,Undefined,Units,Percentage (%),_L_010a02,6.019958178
+2011,Education,,Undefined,Units,Percentage (%),_L_010a02,5.659407294
+2012,Education,,Undefined,Units,Percentage (%),_L_010a02,5.469540717
+2013,Education,,Undefined,Units,Percentage (%),_L_010a02,5.221555214
+2014,Education,,Undefined,Units,Percentage (%),_L_010a02,5.292222359
+2015,Education,,Undefined,Units,Percentage (%),_L_010a02,5.071960786
+2000,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.07012629
+2001,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.200772782
+2002,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.350117737
+2003,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.268183819
+2004,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.330366574
+2005,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.399430514
+2006,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.511308607
+2007,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.510195326
+2008,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.594257084
+2009,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.741923897
+2010,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.79245748
+2011,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.684266168
+2012,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.535102716
+2013,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.443975988
+2014,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.380697545
+2015,Education,Pre-primary and primary education,Undefined,Units,Percentage (%),_L_010a02,1.350638019
+2000,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,0.939488029
+2001,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.037776477
+2002,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.167282516
+2003,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.153260761
+2004,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.244673397
+2005,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.322576103
+2006,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.471414719
+2007,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.506496935
+2008,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.619182537
+2009,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.822116598
+2010,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.914379792
+2011,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.923694178
+2012,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,1.987706413
+2013,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,2.104034622
+2014,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,2.31499845
+2015,Education,Secondary education,Undefined,Units,Percentage (%),_L_010a02,2.197394343
+2000,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.390137392
+2001,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.44338995
+2002,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.476152366
+2003,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.47757615
+2004,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.498656776
+2005,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.62301002
+2006,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.55251579
+2007,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.575014466
+2008,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.519890054
+2009,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.604428618
+2010,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.657899369
+2011,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.601866497
+2012,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.609892314
+2013,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.536032389
+2014,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.480101266
+2015,Education,Post-secondary non-tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.453054078
+2000,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.396905152
+2001,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.417257209
+2002,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.452533439
+2003,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.465359671
+2004,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.495580927
+2005,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.538159886
+2006,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.524036796
+2007,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.552596527
+2008,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.651320363
+2009,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.73384675
+2010,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.719916638
+2011,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.589663766
+2012,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.624709358
+2013,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.491023314
+2014,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.47240664
+2015,Education,Tertiary education,Undefined,Units,Percentage (%),_L_010a02,0.342504012
+2000,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.289988228
+2001,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.310526295
+2002,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.377122043
+2003,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.406733169
+2004,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.417392824
+2005,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.402709953
+2006,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.460090096
+2007,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.48591169
+2008,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.507884675
+2009,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.486287585
+2010,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.45506711
+2011,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.425476297
+2012,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.367120752
+2013,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.322267206
+2014,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.314395885
+2015,Education,Education not definable by level,Undefined,Units,Percentage (%),_L_010a02,0.31481355
+2000,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.01476602
+2001,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.014266343
+2002,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.026091432
+2003,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.027707477
+2004,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.026206241
+2005,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.032758596
+2006,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.034069963
+2007,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.02412489
+2008,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.047163987
+2009,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.072734303
+2010,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.07756559
+2011,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.053842386
+2012,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.032768462
+2013,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.028926427
+2014,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.032620876
+2015,Education,Subsidiary services to education,Undefined,Units,Percentage (%),_L_010a02,0.029967116
+2000,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.004716923
+2001,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.006866511
+2002,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.006506592
+2003,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.004470979
+2004,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.004429224
+2005,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.003997861
+2006,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.004542662
+2007,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.004210476
+2008,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.001943728
+2009,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.001432013
+2010,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.000938767
+2011,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.000578329
+2012,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.000854829
+2013,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.001061008
+2014,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.001029563
+2015,Education,Research and development - education,Undefined,Units,Percentage (%),_L_010a02,0.063005066
+2000,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.345087359
+2001,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.330325846
+2002,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.401456696
+2003,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.431606927
+2004,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.358828643
+2005,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.285220563
+2006,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.354094656
+2007,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.364149276
+2008,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.416014946
+2009,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.402395518
+2010,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.401733433
+2011,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.380019675
+2012,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.311385872
+2013,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.294234259
+2014,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.295972135
+2015,Education,Education - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.320584602
+2000,Social protection,,Undefined,Units,Percentage (%),_L_010a02,9.974104776
+2001,Social protection,,Undefined,Units,Percentage (%),_L_010a02,10.41563058
+2002,Social protection,,Undefined,Units,Percentage (%),_L_010a02,10.80992099
+2003,Social protection,,Undefined,Units,Percentage (%),_L_010a02,11.39747069
+2004,Social protection,,Undefined,Units,Percentage (%),_L_010a02,11.90969059
+2005,Social protection,,Undefined,Units,Percentage (%),_L_010a02,12.11352017
+2006,Social protection,,Undefined,Units,Percentage (%),_L_010a02,12.17322683
+2007,Social protection,,Undefined,Units,Percentage (%),_L_010a02,12.56844157
+2008,Social protection,,Undefined,Units,Percentage (%),_L_010a02,13.48158261
+2009,Social protection,,Undefined,Units,Percentage (%),_L_010a02,15.42528087
+2010,Social protection,,Undefined,Units,Percentage (%),_L_010a02,15.79521745
+2011,Social protection,,Undefined,Units,Percentage (%),_L_010a02,15.93404973
+2012,Social protection,,Undefined,Units,Percentage (%),_L_010a02,16.53696055
+2013,Social protection,,Undefined,Units,Percentage (%),_L_010a02,16.45439062
+2014,Social protection,,Undefined,Units,Percentage (%),_L_010a02,16.31639866
+2015,Social protection,,Undefined,Units,Percentage (%),_L_010a02,16.28903336
+2000,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.641010707
+2001,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.761693402
+2002,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.799137616
+2003,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.814398946
+2004,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.852891945
+2005,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.881620339
+2006,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.828479577
+2007,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,1.863477022
+2008,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.046230997
+2009,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.285312981
+2010,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.278503888
+2011,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.203547352
+2012,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.400646023
+2013,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.469412257
+2014,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.510073457
+2015,Social protection,Sickness and disability,Undefined,Units,Percentage (%),_L_010a02,2.626728867
+2000,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,4.850569244
+2001,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,5.131883677
+2002,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,5.310419721
+2003,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,5.480853818
+2004,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,5.707546967
+2005,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,5.921310153
+2006,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,5.993983885
+2007,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,6.257734616
+2008,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,6.735703309
+2009,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,7.570393857
+2010,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,7.816053378
+2011,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,8.042988316
+2012,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,8.56926626
+2013,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,8.749127461
+2014,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,8.76591216
+2015,Social protection,Old age,Undefined,Units,Percentage (%),_L_010a02,8.751138989
+2000,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.110745151
+2001,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.119597289
+2002,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.123690304
+2003,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.117001119
+2004,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.114052512
+2005,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.09242817
+2006,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.099123208
+2007,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.103384255
+2008,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.10416095
+2009,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.159609729
+2010,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.125618706
+2011,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.073621221
+2012,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.061319765
+2013,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.062487784
+2014,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.06182794
+2015,Social protection,Survivors,Undefined,Units,Percentage (%),_L_010a02,0.059987177
+2000,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.227425421
+2001,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.299970534
+2002,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.397030262
+2003,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.784172608
+2004,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,2.086410465
+2005,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,2.126683279
+2006,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,2.227476697
+2007,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,2.074854298
+2008,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.983345682
+2009,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,2.189487477
+2010,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,2.131117531
+2011,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,2.07053179
+2012,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.823465182
+2013,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.610721765
+2014,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.563580363
+2015,Social protection,Family and children,Undefined,Units,Percentage (%),_L_010a02,1.471406554
+2000,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.296004014
+2001,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.219795018
+2002,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.247315543
+2003,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.265362064
+2004,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.246375572
+2005,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.252163619
+2006,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.270346611
+2007,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.260708122
+2008,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.281440371
+2009,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.411166595
+2010,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.39563145
+2011,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.336182372
+2012,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.338341494
+2013,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.279826888
+2014,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.220543132
+2015,Social protection,Unemployment,Undefined,Units,Percentage (%),_L_010a02,0.151159214
+2000,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.858411641
+2001,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.810314966
+2002,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.849110191
+2003,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.81560737
+2004,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.824758377
+2005,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.849873739
+2006,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.879703912
+2007,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.909405919
+2008,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,0.986899274
+2009,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,1.186422373
+2010,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,1.281475084
+2011,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,1.325355484
+2012,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,1.363566941
+2013,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,1.362222532
+2014,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,1.328948481
+2015,Social protection,Housing,Undefined,Units,Percentage (%),_L_010a02,1.295998331
+2000,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.759698062
+2001,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.766582624
+2002,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.765305293
+2003,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.769890033
+2004,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.747123927
+2005,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.683693976
+2006,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.625140138
+2007,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.894384761
+2008,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.147485502
+2009,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.408443981
+2010,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.526023784
+2011,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.590287782
+2012,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.651587475
+2013,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.652156917
+2014,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.592787427
+2015,Social protection,Social exclusion - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,1.613353262
+2000,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000615251
+2001,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.002133285
+2002,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.001106121
+2003,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000377829
+2004,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000369102
+2005,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000596696
+2006,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000174718
+2007,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000227593
+2008,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.00074319
+2009,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000119334
+2010,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000117346
+2011,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000462663
+2012,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000284943
+2013,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.000111685
+2014,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.0
+2015,Social protection,Research and development - social protection,Undefined,Units,Percentage (%),_L_010a02,0.0
+2000,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.229625285
+2001,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.303659784
+2002,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.31680594
+2003,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.349806898
+2004,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.330161722
+2005,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.3051502
+2006,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.248798087
+2007,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.204264985
+2008,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.195573331
+2009,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.214324541
+2010,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.240676287
+2011,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.291072747
+2012,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.328482461
+2013,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.268323328
+2014,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.272725696
+2015,Social protection,Social protection - not elsewhere classified,Undefined,Units,Percentage (%),_L_010a02,0.319260966
