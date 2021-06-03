@@ -204,15 +204,6 @@
             "type": "integer"
           },
           {
-            "name": "Country",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {

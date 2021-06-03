@@ -225,16 +225,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Country",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Country"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
