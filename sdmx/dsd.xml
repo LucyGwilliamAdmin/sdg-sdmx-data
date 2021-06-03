@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1622737612</mes:ID>
+    <mes:ID>IREF1622737652</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-06-03T16:26:52</mes:Prepared>
+    <mes:Prepared>2021-06-03T16:27:32</mes:Prepared>
     <mes:Sender id="uk-ons"/>
   </mes:Header>
   <mes:Structures>
@@ -23663,45 +23663,6 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           </com:Annotations>
           <com:Name xml:lang="en">Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]</com:Name>
           <com:Description xml:lang="en">Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]</com:Description>
-        </str:Code>
-        <str:Code id="_L_010a02">
-          <com:Name xml:lang="en">_L_010a02</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY10">
-          <com:Name xml:lang="en">SI_POV_DAY10</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY11">
-          <com:Name xml:lang="en">SI_POV_DAY11</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY12">
-          <com:Name xml:lang="en">SI_POV_DAY12</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY13">
-          <com:Name xml:lang="en">SI_POV_DAY13</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY2">
-          <com:Name xml:lang="en">SI_POV_DAY2</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY3">
-          <com:Name xml:lang="en">SI_POV_DAY3</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY4">
-          <com:Name xml:lang="en">SI_POV_DAY4</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY5">
-          <com:Name xml:lang="en">SI_POV_DAY5</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY6">
-          <com:Name xml:lang="en">SI_POV_DAY6</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY7">
-          <com:Name xml:lang="en">SI_POV_DAY7</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY8">
-          <com:Name xml:lang="en">SI_POV_DAY8</com:Name>
-        </str:Code>
-        <str:Code id="SI_POV_DAY9">
-          <com:Name xml:lang="en">SI_POV_DAY9</com:Name>
         </str:Code>
       </str:Codelist>
       <str:Codelist version="1.1" isExternalReference="false" isFinal="true" agencyID="IAEG-SDGs" id="CL_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_SEX(1.1)">
