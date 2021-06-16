@@ -10,6 +10,6 @@ Male,SEX,M
 Female,SEX,F
 Urban,URBANISATION,U
 Rural,URBANISATION,R
-Proportion of total government spending on health,SERIES
-"Proportion of total government spending on essential services, education",SERIES
-Proportion of total government spending on social protection,SERIES
+Proportion of total government spending on health,SERIES,SG_XPD_HLTH
+"Proportion of total government spending on essential services, education",SERIES,SG_XPD_ESED
+Proportion of total government spending on social protection,SERIES,SG_XPD_PROT
