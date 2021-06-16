@@ -46,8 +46,14 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_ACS_ELEC",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -90,8 +96,14 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_DAY1",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -134,8 +146,14 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_ORTIND",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -178,8 +196,14 @@
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_EMP_PCAP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -233,8 +257,14 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DYN_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -309,8 +339,21 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services",
+                "Proportion of total government spending on health",
+                "Proportion of total government spending on essential services, education",
+                "Proportion of total government spending on social protection",
+                "Percentage of gross domestic product (GDP) spending on essential services",
+                "Percentage of gross domestic product (GDP) spending on health",
+                "Percentage of gross domestic product (GDP) spending on essential services, education",
+                "Percentage of gross domestic product (GDP) spending on social protection",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

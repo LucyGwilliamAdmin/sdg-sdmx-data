@@ -44,8 +44,14 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DYN_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -33,8 +33,14 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_DAY1",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

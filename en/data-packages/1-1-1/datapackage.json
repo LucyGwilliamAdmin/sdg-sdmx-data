@@ -16,9 +16,15 @@
             "title": "Observation status"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "SI_POV_DAY1"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",

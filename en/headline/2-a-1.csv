@@ -1,25 +1,25 @@
-Year,Value,Units,Observation status,Unit multiplier,SERIES
-1995,0.621339529,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-1996,0.618122041,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-1997,0.771004329,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-1998,0.642354525,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-1999,0.661509318,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2000,0.807328308,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2001,1.160329875,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2002,0.612295899,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2003,0.651699079,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2004,0.715937118,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2005,0.72976889,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2006,0.757564928,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2007,0.718703495,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2008,0.535228358,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2009,0.518150611,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2010,0.536094536,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2011,0.50327236,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2012,0.474469137,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2013,0.46991294,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2014,0.411589099,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2015,0.394219747,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2016,0.42010518,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2017,0.403549033,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
-2018,0.422870274,Index,Estimate,Units,Agriculture orientation index for government expenditures [2.a.1]
+Year,Value,Units,Series,Observation status,Unit multiplier
+1995,0.621339529,Index,AG_PRD_ORTIND,Estimate,Units
+1996,0.618122041,Index,AG_PRD_ORTIND,Estimate,Units
+1997,0.771004329,Index,AG_PRD_ORTIND,Estimate,Units
+1998,0.642354525,Index,AG_PRD_ORTIND,Estimate,Units
+1999,0.661509318,Index,AG_PRD_ORTIND,Estimate,Units
+2000,0.807328308,Index,AG_PRD_ORTIND,Estimate,Units
+2001,1.160329875,Index,AG_PRD_ORTIND,Estimate,Units
+2002,0.612295899,Index,AG_PRD_ORTIND,Estimate,Units
+2003,0.651699079,Index,AG_PRD_ORTIND,Estimate,Units
+2004,0.715937118,Index,AG_PRD_ORTIND,Estimate,Units
+2005,0.72976889,Index,AG_PRD_ORTIND,Estimate,Units
+2006,0.757564928,Index,AG_PRD_ORTIND,Estimate,Units
+2007,0.718703495,Index,AG_PRD_ORTIND,Estimate,Units
+2008,0.535228358,Index,AG_PRD_ORTIND,Estimate,Units
+2009,0.518150611,Index,AG_PRD_ORTIND,Estimate,Units
+2010,0.536094536,Index,AG_PRD_ORTIND,Estimate,Units
+2011,0.50327236,Index,AG_PRD_ORTIND,Estimate,Units
+2012,0.474469137,Index,AG_PRD_ORTIND,Estimate,Units
+2013,0.46991294,Index,AG_PRD_ORTIND,Estimate,Units
+2014,0.411589099,Index,AG_PRD_ORTIND,Estimate,Units
+2015,0.394219747,Index,AG_PRD_ORTIND,Estimate,Units
+2016,0.42010518,Index,AG_PRD_ORTIND,Estimate,Units
+2017,0.403549033,Index,AG_PRD_ORTIND,Estimate,Units
+2018,0.422870274,Index,AG_PRD_ORTIND,Estimate,Units

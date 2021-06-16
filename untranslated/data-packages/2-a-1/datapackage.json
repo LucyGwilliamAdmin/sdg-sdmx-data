@@ -33,8 +33,14 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_ORTIND",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

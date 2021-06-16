@@ -18,9 +18,15 @@
             "title": "Observation status"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "EG_ACS_ELEC"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -80,9 +86,15 @@
             "title": "Observation status"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "SI_POV_DAY1"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -130,9 +142,15 @@
             "title": "Observation status"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "AG_PRD_ORTIND"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -180,9 +198,15 @@
             "title": "Observation status"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "SL_EMP_PCAP"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
@@ -230,9 +254,15 @@
             "title": "Observation status"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "SH_DYN_MORT"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -325,9 +355,22 @@
             "title": "Observation status"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage of gross domestic product (GDP) spending on essential services",
+                "Percentage of gross domestic product (GDP) spending on essential services, education",
+                "Percentage of gross domestic product (GDP) spending on health",
+                "Percentage of gross domestic product (GDP) spending on social protection",
+                "Proportion of total government spending on essential services",
+                "Proportion of total government spending on essential services, education",
+                "Proportion of total government spending on health",
+                "Proportion of total government spending on social protection"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",

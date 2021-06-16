@@ -1,18 +1,18 @@
-Year,Value,Units,Observation status,Unit multiplier,SERIES
-2000,6.55,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2001,6.44,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2002,6.19,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2003,6.25,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2004,5.86,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2005,5.9,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2006,5.75,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2007,5.55,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2008,5.32,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2009,5.18,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2010,4.9,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2011,4.81,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2012,4.58,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2013,4.47,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2014,4.23,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2015,4.29,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
-2016,4.415133545,"Rate per 1,000 live births",Undefined,Units,SH_DYN_MORT
+Year,Value,Units,Series,Observation status,Unit multiplier
+2000,6.55,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2001,6.44,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2002,6.19,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2003,6.25,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2004,5.86,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2005,5.9,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2006,5.75,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2007,5.55,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2008,5.32,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2009,5.18,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2010,4.9,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2011,4.81,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2012,4.58,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2013,4.47,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2014,4.23,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2015,4.29,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
+2016,4.415133545,"Rate per 1,000 live births",SH_DYN_MORT,Undefined,Units
