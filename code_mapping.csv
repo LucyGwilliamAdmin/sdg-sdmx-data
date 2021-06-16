@@ -14,3 +14,7 @@ Proportion of total government spending on health,SERIES,SG_XPD_HLTH
 "Proportion of total government spending on essential services, education",SERIES,SG_XPD_ESED
 Proportion of total government spending on social protection,SERIES,SG_XPD_PROT
 Proportion of population with access to electricity [7.1.1],SERIES,EG_ACS_ELEC
+Proportion of population below international poverty line [1.1.1],SERIES,SI_POV_DAY1
+Agriculture orientation index for government expenditures [2.a.1],SERIES,AG_PRD_ORTIND
+Under-five mortality rate [3.2.1],SERIES,SH_DYN_MORT
+Annual growth rate of real GDP per employed person [8.2.1],SERIES,SL_EMP_PCAP
