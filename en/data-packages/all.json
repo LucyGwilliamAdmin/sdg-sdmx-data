@@ -325,22 +325,9 @@
             "title": "Observation status"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage of gross domestic product (GDP) spending on essential services",
-                "Percentage of gross domestic product (GDP) spending on essential services, education",
-                "Percentage of gross domestic product (GDP) spending on health",
-                "Percentage of gross domestic product (GDP) spending on social protection",
-                "Proportion of total government spending on essential services",
-                "Proportion of total government spending on essential services, education",
-                "Proportion of total government spending on health",
-                "Proportion of total government spending on social protection"
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "Unit multiplier",
