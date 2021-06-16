@@ -13,3 +13,4 @@ Rural,URBANISATION,R
 Proportion of total government spending on health,SERIES,SG_XPD_HLTH
 "Proportion of total government spending on essential services, education",SERIES,SG_XPD_ESED
 Proportion of total government spending on social protection,SERIES,SG_XPD_PROT
+Proportion of population with access to electricity [7.1.1],SERIES,EG_ACS_ELEC
