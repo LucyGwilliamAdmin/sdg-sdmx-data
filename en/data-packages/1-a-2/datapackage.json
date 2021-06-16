@@ -11,13 +11,79 @@
       "schema": {
         "fields": [
           {
+            "name": "Area of spending sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Education - not elsewhere classified",
+                "Education not definable by level",
+                "Family and children",
+                "Health - not elsewhere classified",
+                "Hospital services",
+                "Housing",
+                "Medical products, appliances and equipment",
+                "Old age",
+                "Outpatient services",
+                "Post-secondary non-tertiary education",
+                "Pre-primary and primary education",
+                "Public health services",
+                "Research and development - education",
+                "Research and development - health",
+                "Research and development - social protection",
+                "Secondary education",
+                "Sickness and disability",
+                "Social exclusion - not elsewhere classified",
+                "Social protection - not elsewhere classified",
+                "Subsidiary services to education",
+                "Survivors",
+                "Tertiary education",
+                "Unemployment"
+              ]
+            },
+            "title": "Area of spending sub-category"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage of gross domestic product (GDP) spending on essential services",
+                "Percentage of gross domestic product (GDP) spending on essential services, education",
+                "Percentage of gross domestic product (GDP) spending on health",
+                "Percentage of gross domestic product (GDP) spending on social protection",
+                "Proportion of total government spending on essential services",
+                "Proportion of total government spending on essential services, education",
+                "Proportion of total government spending on health",
+                "Proportion of total government spending on social protection"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
