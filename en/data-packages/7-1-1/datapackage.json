@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "",
-                "EG_ACS_ELEC"
+                "Proportion of population with access to electricity [7.1.1]"
               ]
             },
             "title": "Series"

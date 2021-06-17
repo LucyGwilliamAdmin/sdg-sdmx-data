@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "",
-                "SI_POV_DAY1"
+                "Proportion of population below international poverty line [1.1.1]"
               ]
             },
             "title": "Series"

@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "",
-                "SL_EMP_PCAP"
+                "Annual growth rate of real GDP per employed person [8.2.1]"
               ]
             },
             "title": "Series"

@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "",
-                "AG_PRD_ORTIND"
+                "Agriculture orientation index for government expenditures [2.a.1]"
               ]
             },
             "title": "Series"

@@ -128,7 +128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SL_EMP_PCAP",
+                "Annual growth rate of real GDP per employed person [8.2.1]",
                 ""
               ]
             }
@@ -178,7 +178,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_PRD_ORTIND",
+                "Agriculture orientation index for government expenditures [2.a.1]",
                 ""
               ]
             }
@@ -239,7 +239,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_DYN_MORT",
+                "Under-five mortality rate [3.2.1]",
                 ""
               ]
             }
@@ -289,7 +289,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_POV_DAY1",
+                "Proportion of population below international poverty line [1.1.1]",
                 ""
               ]
             }
@@ -350,7 +350,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EG_ACS_ELEC",
+                "Proportion of population with access to electricity [7.1.1]",
                 ""
               ]
             }

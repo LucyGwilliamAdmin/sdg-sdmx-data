@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "",
-                "SH_DYN_MORT"
+                "Under-five mortality rate [3.2.1]"
               ]
             },
             "title": "Series"
